@@ -160,6 +160,11 @@ src/
 docs/
   Proposta_de_evolucao_REA_Exercicios_1_e_2 (1).pdf
   schema_proposto_001.sql
+  rea_doc_esquema_atual.pdf
+  relatorio_exercicio2.pdf
+  Apresentacao_Exercicio_2_Banco_Dados.pptx
+  PARECER_INDEPENDENTE.md
+  APROVACAO_HUMANA.md
 ```
 
 ## Limites e segurança
