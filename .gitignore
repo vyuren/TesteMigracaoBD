@@ -1,0 +1,16 @@
+# Ambientes Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Bancos e backups do laboratório
+*.db
+*.sqlite
+*.sqlite3
+*.sha256
+*.metadata.json
+
+# Arquivos temporários
+*.tmp
+*.log
