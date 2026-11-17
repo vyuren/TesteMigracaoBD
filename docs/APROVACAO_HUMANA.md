@@ -27,7 +27,7 @@ Registro formal da decisão sobre o resultado do laboratório de evolução do b
 ## Decisão
 
 - [ ] Aprovado
-- [ ] Aprovado com ressalvas
+- [x] Aprovado com ressalvas
 - [ ] Não aprovado
 
 **Responsável pela aprovação:** ________________________________________  
